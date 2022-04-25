@@ -30,9 +30,9 @@ Alternatively see the GitHub documentation on [creating a pull request](https://
 
 If you want to contact to our Squad at then use:
 
-E-Mail: service@open-telekom-cloud.com
-Website: www.open-telekom-cloud.com
-DE:  0800 330 4477 | Worldwide: +800 330 44770
+E-Mail: service@open-telekom-cloud.com\
+Website: www.open-telekom-cloud.com\
+DE:  0800 330 4477 | Worldwide: +800 330 44770\
 
 ## License
 
